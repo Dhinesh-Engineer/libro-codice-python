@@ -1,4 +1,4 @@
-# Searching Algorthimms
+# Searching Algorthims
 
 Searching is the process of finding some particular element in the list. If the element is present in the list, then the process is called successful, and the process returns the location of that element; otherwise, the search is called unsuccessful.
 
